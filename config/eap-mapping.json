@@ -2,7 +2,7 @@
 {
   "name": "besluitvorming-ap",
   "type": "ap",
-  "eap": "OSLO-Besluitvorming-2020.EAP",
+  "eap": "OSLO-Besluitvorming-2020.eap",
   "diagram": "OSLO-Besluitvorming",
   "template": "besluitvorming-ap.j2",
   "title": "OSLO-Besluitvorming (Applicatieprofiel)",
