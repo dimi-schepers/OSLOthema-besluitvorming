@@ -1,12 +1,12 @@
-Voornaam,Naam,Affiliatie,E-mail,Website,Besluitvorming,
-Alvin,Demeyer,Departement Kanselarij en Bestuur,alvin.demeyer@vlaanderen.be,https://overheid.vlaanderen.be/,A,
-Karl,Musschoot,Departement Kanselarij en Bestuur,karl.musschoot@vlaanderen.be,https://overheid.vlaanderen.be/,A,
-Eveline,Vlassenroot,imec - UGent,eveline.vlassenroot@ugent.be,https://www.ugent.be/ps/communicatiewetenschappen/mict,E,
-Katrien,De Smet,Informatie Vlaanderen,katrien.desmet@kb.vlaanderen.be,https://overheid.vlaanderen.be/informatie-vlaanderen,E,
-Veronique,Volders,Agentschap Binnenlands Bestuur,veronique.volders@bz.vlaanderen.be,http://binnenland.vlaanderen.be/,E,
-Johan,Delaure,redpencil.io,johan.delaure@redpencil.io,http://redpencil.io,E,
-Michaël,Dierick,redpencil.io,michael.dierick@redpencil.io,https://redpencil.io,E,
-Ben,De Meester,imec - UGent,ben.demeester@ugent.be,https://www.ugent.be,E,
-Dimitri,Schepers,PwC,dimitri.schepers@pwc.com,https://www.pwc.be,E,
-Niels,Vandekeybus,redpencil.io,niels.vandekeybus@redpencil.io,https://redpencil.io,E,
-Yana,Van Dorst,ChangeLab,yana@changelab.be,https://changelab.be,E,
+Voornaam;Naam;Affiliatie;E-mail;Website;Besluitvorming;
+Alvin;Demeyer;Departement Kanselarij en Bestuur;alvin.demeyer@vlaanderen.be;https://overheid.vlaanderen.be/;A;
+Karl;Musschoot;Departement Kanselarij en Bestuur;karl.musschoot@vlaanderen.be;https://overheid.vlaanderen.be/;A;
+Eveline;Vlassenroot;imec - UGent;eveline.vlassenroot@ugent.be;https://www.ugent.be/ps/communicatiewetenschappen/mict;E;
+Katrien;De Smet;Informatie Vlaanderen;katrien.desmet@kb.vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;E;
+Veronique;Volders;Agentschap Binnenlands Bestuur;veronique.volders@bz.vlaanderen.be;http://binnenland.vlaanderen.be/;E;
+Johan;Delaure;redpencil.io;johan.delaure@redpencil.io;http://redpencil.io;E;
+Michaël;Dierick;redpencil.io;michael.dierick@redpencil.io;https://redpencil.io;E;
+Ben;De Meester;imec - UGent;ben.demeester@ugent.be;https://www.ugent.be;E;
+Dimitri;Schepers;PwC;dimitri.schepers@pwc.com;https://www.pwc.be;E;
+Niels;Vandekeybus;redpencil.io;niels.vandekeybus@redpencil.io;https://redpencil.io;E;
+Yana;Van Dorst;ChangeLab;yana@changelab.be;https://changelab.be;E;
