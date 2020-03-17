@@ -7,7 +7,7 @@
   "template": "besluitvorming-ap.j2",
   "title": "OSLO-Besluitvorming (Applicatieprofiel)",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
-  "publication-date": "26-02-2020",
+  "publication-date": "17=03-2020",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Besluitvorming",
