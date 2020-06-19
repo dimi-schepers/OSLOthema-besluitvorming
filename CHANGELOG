@@ -1,4 +1,7 @@
-2020-06-16
-  - kardinaliteit van relatie "vindt plaats tijdens" op activiteit aangepast naar 0..1 aan de zijde van procedureStap.
-  - codelijst toegevoegd voor attribuut taal op Stuk
-  - attributen van organisatie uit het applicatieprofiel gehaald, is nu terug in lijn met de afbeelding
+2020-06-19
+ - ap definitie van openbaar en gepland openbaar: openbaar vervangen door publiek
+ - usageNote voor genereertVerslag toegevoegd
+ - kardinlateit van genereertAgendapunt gecorrigeerd
+- kardinaliteit van relatie "vindt plaats tijdens" op activiteit aangepast naar 0..1 aan de zijde van procedureStap.
+ - codelijst toegevoegd voor attribuut taal op Stuk
+ - attributen van organisatie uit het applicatieprofiel gehaald, is nu terug in lijn met de afbeelding
