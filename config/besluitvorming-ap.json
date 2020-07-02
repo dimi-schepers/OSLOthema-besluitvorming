@@ -6,13 +6,13 @@
   "diagram": "OSLO-Besluitvorming",
   "template": "besluitvorming-ap.j2",
   "title": "OSLO-Besluitvorming (Applicatieprofiel)",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-  "publication-date": "2020-03-31",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+  "publication-date": "2020-06-18",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Besluitvorming",
   "site": "site-skeleton/besluitvorming",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-besluitvorming/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaarden-in-ontwikkeling/besluitvorming/besluitvorming.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/besluitvorming/besluitvorming.html"
 }
 ]
